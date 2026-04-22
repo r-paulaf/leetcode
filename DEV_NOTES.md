@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Documented config options
 - Verified compatibility with latest runtime version
+
+## 2026-04-22
+- Checked for memory leaks in long-running path
+- Updated .gitignore to exclude build artifacts
