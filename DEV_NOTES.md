@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Checked for memory leaks in long-running path
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-22
+- Documented config options
+- Drafted initial implementation plan for v2
+- Resolved deprecation warnings
